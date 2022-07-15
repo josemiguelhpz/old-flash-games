@@ -3,4 +3,4 @@ In this repository i'm updating my old games made with flash, if you download th
 
 these are some of the games described in my portfolio at the time: https://www.freelancer.com.ar/u/josemiguelH
 
-the only complete games is "Hamster Shot" that you actually can play online (https://www.kongregate.com/games/softtesla/hamster-shot)
+the only complete games are "The Recycling Game" and "Hamster Shot" that you actually can play online (https://www.kongregate.com/games/softtesla/hamster-shot)
